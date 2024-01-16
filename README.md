@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there! 👋 I'm [Shahed Amin]
 
-<!--
-**shahedamin/shahedamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about coding and exploring the vast world of technology! 🚀 I specialize in Python, backend development, APIs, and I'm currently diving into the fascinating realm of generative AI.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Languages:** Python
+- **Frameworks:** FastApi,Django,LangChain
+- **Databases:** MongoDB,ChromaDB,MySQL,SQLite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Learning & Growing
+I am always eager to learn and stay updated with the latest trends in technology. Currently, I'm on a journey to master generative AI and exploring innovative ways to implement it in real-world applications.
+Feel free to explore my repositories to see more of my work!
+
+## 📫 Let's Connect
+
+- Email: [shahed.amin@g.bracu.ac.bd]
+
+I'm open to collaboration and always excited to connect with fellow developers and tech enthusiasts. Let's learn and grow together! 💻✨
