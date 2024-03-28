@@ -4,7 +4,7 @@ Passionate about coding and exploring the vast world of technology! 🚀 I speci
 
 ## 🔧 Technologies & Tools
 - **Languages:** Python
-- **Frameworks:** FastApi,Django,LangChain
+- **Frameworks:** FastApi,Django,LangChain,Web3.py
 - **Databases:** MongoDB,ChromaDB,MySQL,SQLite
 
 ## 🌱 Learning & Growing
