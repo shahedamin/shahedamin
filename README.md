@@ -4,8 +4,9 @@ Passionate about coding and exploring the vast world of technology! 🚀 I speci
 
 ## 🔧 Technologies & Tools
 - **Languages:** Python
-- **Frameworks:** FastApi,Django,LangChain,Web3.py
-- **Databases:** MongoDB,ChromaDB,MySQL,SQLite
+- **Frameworks:** FastApi
+- **Databases:** MongoDB,MySQL,SQLite
+- **Used To :** Django,LangChain,Web3.py,ChromaDB
 
 ## 🌱 Learning & Growing
 I am always eager to learn and stay updated with the latest trends in technology. Currently, I'm on a journey to master generative AI and exploring innovative ways to implement it in real-world applications.
