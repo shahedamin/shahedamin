@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Shahed Amin]
+# Hi there! 👋 I'm Shahed Amin
 
 Passionate about coding and exploring the vast world of technology! 🚀 I specialize in Python, backend development, APIs, and I'm currently diving into the fascinating realm of generative AI.
 
